@@ -1,7 +1,7 @@
 
 # Welcome to the GroceryWebApp
 
-## Steps to follow :scroll:
+## Steps to follow :scroll:   https://sd8917.github.io/GroceryWebApp/.
 
 ### 1. Fork it :fork_and_knife:
 
